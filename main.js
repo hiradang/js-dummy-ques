@@ -1,4 +1,4 @@
-/* Difference between let and var*/
+/* The differences between let and var*/
 
 /**  Question 1.
     let a = 'Hira Dang';
